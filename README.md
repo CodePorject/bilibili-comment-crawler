@@ -9,3 +9,5 @@ API：x/v2/reply/main（mode=2 热门排序），自适应分页 + rpid 去重�
 依赖：无（原生 JS，纯浏览器端运行）
 
 示例图片：
+
+![截图](https://raw.githubusercontent.com/CodePorject/bilibili-comment-crawler/refs/heads/main/image/%E8%AF%84%E8%AE%BA.png)
