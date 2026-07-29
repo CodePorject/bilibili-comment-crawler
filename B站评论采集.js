@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         B站评论采集
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/CodePorject
 // @version      1.0
 // @description  采集B站视频评论，支持翻页浏览与排序。
 // @author       CodePorject
