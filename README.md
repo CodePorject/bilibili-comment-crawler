@@ -4,4 +4,3 @@ B站视频评论区采集工具（Tampermonkey 脚本）
 API：x/v2/reply/main（mode=2 热门排序），自适应分页 + rpid 去重防循环
 依赖：无（原生 JS，纯浏览器端运行）
 示例图片：
-![Uploading 屏幕截图 2026-07-29 100432.png…]()
